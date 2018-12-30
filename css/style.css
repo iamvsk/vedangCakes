@@ -345,11 +345,11 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .cards__pictures--1 {
-      background-image: linear-gradient(to right bottom, #A0522D, #800000), url(../../img/nat-5.jpg); }
+      background-image: linear-gradient(to right bottom, #A0522D, #800000), url(../img/nat-5.jpg); }
     .cards__pictures--2 {
-      background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(../../img/nat-6.jpeg); }
+      background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(../img/nat-6.jpeg); }
     .cards__pictures--3 {
-      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../../img/nat-7.jpg); }
+      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/nat-7.jpg); }
   .cards__heading {
     font-size: 2.8rem;
     font-weight: 300;
@@ -740,7 +740,7 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: url(../../img/nat-4.jpg);
+  background-image: url(../img/nat-4.jpg);
   background-size: cover; }
   @media (max-width: 56.25em) {
     .section-features {
@@ -752,7 +752,7 @@ body {
   margin-top: -10rem; }
 
 .section-moreCakes {
-  background-image: url(../../img/nat-4.jpg);
+  background-image: url(../img/nat-4.jpg);
   background-size: cover;
   padding: 10rem 0 10rem 0;
   margin-top: -10rem; }
