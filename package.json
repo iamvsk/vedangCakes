@@ -1,0 +1,14 @@
+{
+  "name": "vedang_cakes",
+  "version": "1.0.0",
+  "description": "Vedang cakes",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Vaibs",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
